@@ -1,0 +1,16 @@
+node_modules
+npm-debug.log
+.git
+.gitignore
+.env.local
+.env.*.local
+README.md
+AUDIT_REPORT.md
+BUILD_FIX_SOLUTION.md
+.vscode
+.idea
+*.md
+dist
+.DS_Store
+coverage
+.turbo
